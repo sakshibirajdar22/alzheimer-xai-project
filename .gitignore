@@ -1,0 +1,22 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Models and Large Files (Recommended to keep these local)
+model/*.h5
+model/*.png
+temp_mri.jpg
+
+# Dataset
+dataset/
+
+# Virtual Environment
+venv/
+.env
+.venv
+env/
+
+# IDE files
+.vscode/
+.idea/
