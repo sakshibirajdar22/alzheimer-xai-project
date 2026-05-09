@@ -5,7 +5,7 @@ __pycache__/
 
 # Models and Large Files (Recommended to keep these local)
 model/*.h5
-model/*.png
+# model/*.png (allowed for pushing visualization results)
 temp_mri.jpg
 
 # Dataset
