@@ -9,7 +9,7 @@ model/*.png
 temp_mri.jpg
 
 # Dataset
-dataset/
+# dataset/ (removed to allow pushing)
 
 # Virtual Environment
 venv/
