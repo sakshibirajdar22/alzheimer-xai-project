@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # Models and Large Files (Recommended to keep these local)
-model/*.h5
+# model/*.h5 (allowed for pushing)
 # model/*.png (allowed for pushing visualization results)
 temp_mri.jpg
 
